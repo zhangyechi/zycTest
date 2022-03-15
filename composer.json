@@ -1,0 +1,21 @@
+{
+    "name": "zyc/test",
+    "description": "this is a test package",
+    "type": "1",
+    "require": {
+        "php": ">=5.6"
+    },
+    "license": "apache",
+    "autoload": {
+        "psr-4": {
+            "Zyc": "src/zyc"
+        }
+    },
+    "authors": [
+        {
+            "name": "zhangyechi",
+            "email": "zhangyechi@163.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
